@@ -1,0 +1,145 @@
+body{
+    background-color:black;
+}
+h1{
+    color:antiquewhite;
+    font-size: 20px;
+}
+h1.titulo{
+    font-size: 40px;
+    text-align: center;
+    color:red
+}
+h1{
+    color: cyan;
+    font: 40px;
+    text-align: center;
+}
+h1.subtitulo{
+    color:gold;
+    font-size: 40px;
+}
+h1.C{
+    color:gold;
+    font-size: 40px;
+}
+h1.M{
+    color:gold;
+    font-size: 40px;
+}
+h1.Co{
+    color:gold;
+    font-size: 40px;
+}
+h1.cacha{
+    color:gold;
+    font-size: 40px;
+}
+h1.O{
+    color:gold;
+    font-size: 40px;
+}
+
+p{
+    font-family: Verdana;
+    color:white
+}
+p.C{
+    font:100;
+}
+p.M{
+    font:100;
+}
+p.Co{
+    font:100;
+}
+p.cacha{
+    font:100;
+}
+p.O{
+    font:100;
+}
+
+img{
+    border: 20px solid gold;
+    border-radius: 15px;
+    
+}
+img.um{
+    width: 800px;
+    height: 600px;
+}
+img.dois{
+    width: 500px;
+    height: 400px;
+}
+img.tres{
+    width: 500px;
+    height: 400px;
+}
+img.quatro{
+    width: 500px;
+    height: 400px;
+}
+img.cinco{
+    width: 500px;
+    height: 400px;
+}
+
+div.caixa{
+    border:2px solid black;
+    border-radius: 15px;
+    background-color:darkblue;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+}
+
+div.caixa2{
+    border:2px solid black;
+    border-radius: 15px;
+    background-color:darkslategray;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+}
+
+div.site{
+    border:2px solid white;
+    border-radius: 15px;
+    background-color:gray;
+    padding: 50px;
+    margin: 50px;
+}
+
+div.site2{
+    border:2px solid white;
+    border-radius: 15px;
+    background-color:darkblue;
+    padding: 50px;
+    margin: 50px;
+}
+
+div.site3{
+    border:2px solid white;
+    border-radius: 15px;
+    background-color:darkblue;
+    padding: 50px;
+    margin: 50px;
+}
+
+div.site4{
+     border:2px solid white;
+    border-radius: 15px;
+    background-color:green;
+    padding: 50px;
+    margin: 50px;
+}
+
+div.qualquer{
+    border:2px solid white;
+    border-radius: 15px;
+    background-color:darkgreen;
+    padding: 50px;
+    margin: 50px;
+}
